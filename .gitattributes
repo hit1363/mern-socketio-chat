@@ -1,0 +1,21 @@
+# Ensure consistent line endings
+# Normalize text files to LF in the repository
+* text=auto
+
+# Explicitly force LF for source files (avoid Windows CRLF noise)
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.json text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.md   text eol=lf
+
+# Treat images as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg text eol=lf
+
+# Lock package-lock.json to LF so diffs stay clean
+package-lock.json text eol=lf
