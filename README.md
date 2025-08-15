@@ -216,22 +216,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🧪 Quick Architecture Glance
 
 ```mermaid
-flowchart LR
-  subgraph Client[Frontend (Vite + React)]
-    UI[Components / Pages]
+graph LR
+  subgraph Client["Frontend (Vite + React)"]
+    UI[Components/Pages]
     State[Zustand Stores]
     SocketClient[Socket.IO Client]
-    API[Axios Requests]
+    API[Axios]
   end
 
-  subgraph Server[Backend (Express + Socket.IO)]
+  subgraph Server["Backend (Express + Socket.IO)"]
     Routes[/REST Routes/]
-    Controllers{{Controllers}}
+    Controllers[Controllers]
     SocketSrv[Socket.IO Server]
-    Auth[JWT / Cookies]
+    Auth[JWT/Cookies]
   end
 
-  subgraph Data[Persistence]
+  subgraph Data["Persistence"]
     Mongo[(MongoDB)]
     Cloud[(Cloudinary)]
   end
