@@ -5,7 +5,7 @@
 <p>A modern realtime chat platform built with the <strong>MERN</strong> stack, <strong>Socket.IO</strong>, <strong>JWT Auth</strong>, and a clean <strong>Tailwind + DaisyUI</strong> UI.</p>
 
 <p>
-  <a href="#features"><img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="status" /></a>
+  <a href="#features"><img src="file:///C:/Users/Tamim/Pictures/Screenshots/Screenshot%202025-08-15%20202731.png" alt="status" /></a>
   <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="license" /></a>
   <a href="mailto:hasibulislam1363@gmail.com"><img src="https://img.shields.io/badge/Contact-Author-informational?style=flat-square" alt="contact" /></a>
   <img src="https://img.shields.io/badge/Node-18+-339933?logo=node.js&logoColor=white&style=flat-square" alt="node" />
