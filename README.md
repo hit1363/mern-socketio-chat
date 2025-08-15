@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="mongodb" />
 </p>
 
-<sub>✨ Add your own banner or screenshots below (see <code>./frontend/public</code>) ✨</sub>
+<sub>✨ Add your own banner or screenshots below (see <code> <img src="./frontend/public/screenshots/login.png"> </code>) ✨</sub>
 
 </div>
 
