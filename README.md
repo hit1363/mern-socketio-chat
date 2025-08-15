@@ -5,7 +5,7 @@
 <p>A modern realtime chat platform built with the <strong>MERN</strong> stack, <strong>Socket.IO</strong>, <strong>JWT Auth</strong>, and a clean <strong>Tailwind + DaisyUI</strong> UI.</p>
 
 <p>
-  <a href="#features"><img src="file:///C:/Users/Tamim/Pictures/Screenshots/Screenshot%202025-08-15%20202731.png" alt="status" /></a>
+  <a href="#features"><img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="status" /></a>
   <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="license" /></a>
   <a href="mailto:hasibulislam1363@gmail.com"><img src="https://img.shields.io/badge/Contact-Author-informational?style=flat-square" alt="contact" /></a>
   <img src="https://img.shields.io/badge/Node-18+-339933?logo=node.js&logoColor=white&style=flat-square" alt="node" />
@@ -66,17 +66,7 @@ mern-socketio-chat/
     src/
       components/         # UI components (chat UI, skeletons, navbar)
       pages/              # Route pages
-  ## 🖼️ Screenshots
-
-  | Login | Signup | Empty Chat |
-  |-------|--------|-----------|
-  | ![Login](./frontend/public/screenshots/login.png) | ![Signup](./frontend/public/screenshots/signup.png) | ![Empty Chat](./frontend/public/screenshots/empty-chat.png) |
-
-  | Active Chat | Themes | Profile |
-  |-------------|--------|---------|
-  | ![Active Chat](./frontend/public/screenshots/active-chat.png) | ![Themes](./frontend/public/screenshots/themes.png) | ![Profile](./frontend/public/screenshots/profile.png) |
-
-  > Place the exported images into `frontend/public/screenshots/` using the exact filenames above (PNG recommended at ~1600px width). Optimize with `pngquant` or similar to keep repo size low.
+      store/              # Zustand stores (auth/chat/theme)
       lib/                # axios instance & helpers
       constants/          # shared constants
     public/               # static assets
