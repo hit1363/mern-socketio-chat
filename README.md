@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>💬 MERN Realtime Chat App</h1>
+<h1>Realtime Chat App</h1>
 
 <p>A modern realtime chat platform built with the <strong>MERN</strong> stack, <strong>Socket.IO</strong>, <strong>JWT Auth</strong>, and a clean <strong>Tailwind + DaisyUI</strong> UI.</p>
 
