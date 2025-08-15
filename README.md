@@ -66,7 +66,17 @@ mern-socketio-chat/
     src/
       components/         # UI components (chat UI, skeletons, navbar)
       pages/              # Route pages
-      store/              # Zustand stores (auth/chat/theme)
+  ## 🖼️ Screenshots
+
+  | Login | Signup | Empty Chat |
+  |-------|--------|-----------|
+  | ![Login](./frontend/public/screenshots/login.png) | ![Signup](./frontend/public/screenshots/signup.png) | ![Empty Chat](./frontend/public/screenshots/empty-chat.png) |
+
+  | Active Chat | Themes | Profile |
+  |-------------|--------|---------|
+  | ![Active Chat](./frontend/public/screenshots/active-chat.png) | ![Themes](./frontend/public/screenshots/themes.png) | ![Profile](./frontend/public/screenshots/profile.png) |
+
+  > Place the exported images into `frontend/public/screenshots/` using the exact filenames above (PNG recommended at ~1600px width). Optimize with `pngquant` or similar to keep repo size low.
       lib/                # axios instance & helpers
       constants/          # shared constants
     public/               # static assets
