@@ -15,7 +15,14 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="mongodb" />
 </p>
 
-<sub>✨  screenshots below (see <code> <img src="./frontend/public/screenshots/login.png"><img src="./frontend/public/screenshots/signup.png"><img src="./frontend/public/screenshots/empty-chat.png"><img src="./frontend/public/screenshots/active-chat.png"><img src="./frontend/public/screenshots/profile.png"><img src="./frontend/public/screenshots/themes.png"> </code>) ✨</sub>
+<sub>✨ Screenshots below:<br>
+<img src="./frontend/public/screenshots/login.png" alt="Login" width="140" />
+<img src="./frontend/public/screenshots/signup.png" alt="Signup" width="140" />
+<img src="./frontend/public/screenshots/empty-chat.png" alt="Empty chat" width="140" />
+<img src="./frontend/public/screenshots/active-chat.png" alt="Active chat" width="140" />
+<img src="./frontend/public/screenshots/profile.png" alt="Profile" width="140" />
+<img src="./frontend/public/screenshots/themes.png" alt="Themes" width="140" />
+</sub>
 
 </div>
 
