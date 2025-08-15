@@ -260,5 +260,4 @@ graph LR
 
 ⭐ **Star this repo if you like it!**
 
-<dr>
 <p align="center">Made with ❤️ and a lot of ☕</p>
